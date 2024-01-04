@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)]
+![MasterHead](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
 
 <h1 align="center">Hi there!, I'm Alberto Ojeda</h1>
 <h3 align="center">A passionate guy for tech !</h3>
