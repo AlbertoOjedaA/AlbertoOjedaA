@@ -1,6 +1,7 @@
-
+[![MasterHead]("https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif")]
 <h1 align="center">Hi there!, I'm Alberto Ojeda</h1>
 <h3 align="center">Data Analyst & Data Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertoojedaa" alt="albertoojedaa" /></a> </p>
